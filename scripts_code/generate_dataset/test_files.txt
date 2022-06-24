@@ -1,0 +1,10 @@
+../../yolo_images_data/test_dataset/dig0_13_42011.png
+../../yolo_images_data/test_dataset/dig0_9_78110.png
+../../yolo_images_data/test_dataset/dig0_14_18016.png
+../../yolo_images_data/test_dataset/dig0_5_87004.png
+../../yolo_images_data/test_dataset/dig0_6_96011.png
+../../yolo_images_data/test_dataset/dig0_2_83112.png
+../../yolo_images_data/test_dataset/dig0_9_17015.png
+../../yolo_images_data/test_dataset/dig0_2_15101.png
+../../yolo_images_data/test_dataset/dig0_11_00002.png
+../../yolo_images_data/test_dataset/dig0_14_91106.png

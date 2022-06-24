@@ -1,0 +1,30 @@
+image_1 dig0_13_42011.png
+42
+11
+image_2 dig0_9_78110.png
+78
+-10
+image_3 dig0_14_18016.png
+18
+16
+image_4 dig0_5_87004.png
+87
+4
+image_5 dig0_6_96011.png
+96
+11
+image_6 dig0_2_83112.png
+83
+-12
+image_7 dig0_9_17015.png
+17
+15
+image_8 dig0_2_15101.png
+15
+-1
+image_9 dig0_11_00002.png
+0
+2
+image_10 dig0_14_91106.png
+91
+-6

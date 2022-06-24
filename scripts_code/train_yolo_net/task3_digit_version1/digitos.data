@@ -1,0 +1,8 @@
+classes= 36
+//train  = /home/carnot/git/desafioPT/Datasets/dataset_1_v3/train_v3.txt
+//valid  = /home/carnot/git/desafioPT/Datasets/dataset_1_v3/test_v3.txt
+train = cfg/object_aldebaro_train.txt
+//valid = /home/ufax/Downloads/dataset/test.txt
+names = cfg/object_aldebaro.names
+backup = backup5/
+
